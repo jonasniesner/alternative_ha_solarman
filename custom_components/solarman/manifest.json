@@ -1,7 +1,7 @@
 {
   "domain": "solarman",
   "name": "Solarman",
-  "codeowners": ["@StephanJoubert"],
+  "codeowners": ["@jonasniesner"],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/jonasniesner/alternative_ha_solarman/blob/main/README.md",
